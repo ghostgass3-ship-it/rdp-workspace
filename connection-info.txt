@@ -1,6 +1,6 @@
 KANDA RDP - CONNECTION INFO
 ========================================
-  Tunnel TCP   : tcp://scgmdycnee.localto.net:2438
+  Tunnel TCP   : tcp://zxpyva0v1h.localto.net:4666
   RDP User     : Kandagawa
   RDP Pass     : Kandagw@12345
   Runtime      : 355 min
